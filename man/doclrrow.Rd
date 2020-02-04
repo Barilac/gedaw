@@ -4,10 +4,14 @@
 \alias{doclrrow}
 \title{doclrrow}
 \usage{
-doclrrow(a, base = 10)
+doclrrow(a, zero = T, na = T, base = 10)
 }
 \arguments{
 \item{a}{for dim}
+
+\item{zero}{zero=T}
+
+\item{na}{na=T}
 
 \item{base}{The logarithm base is set to 10}
 }
