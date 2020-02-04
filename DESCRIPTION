@@ -2,6 +2,8 @@ Package: gedaw
 Type: Package
 Title: Geostatistical package for anylysing geophysical data as compositional
 Version: 0.0.1
+Authors@R: c( person("Martin", "Janovsky", email = "mjanovsky@fzp.czu.cz", role = "cre"),
+    person("Jan", "Horak", email = "jan_horak@email.cz", role = "aut"))
 Author: Martin Janovsky, Jan Horak
 Maintainer: The package maintainer <mjanovsky@fzp.czu.cz>
 Description: SAGA 'The Soil Science & Archaeo-Geophysics Alliance: going beyond prospection'
@@ -16,6 +18,9 @@ Description: SAGA 'The Soil Science & Archaeo-Geophysics Alliance: going beyond 
     SAGA's website is currently under construction but constant updates
     on activities and other announcements can be found here as well as logged in a project in ResearchGate.
     SAGA will run from 26/10/2018 (kick-off meeting) until 25/10/2022.
+Imports:
+    robCompositions,
+    stats
 License: MIT
 Encoding: UTF-8
 LazyData: true
