@@ -13,10 +13,10 @@
 #'
 #' @keywords datasets
 #'
-#' @references Moore et al. (2013) Genetics 195:1077-1086
-#' (\href{https://www.ncbi.nlm.nih.gov/pubmed/23979570}{PubMed})
+#' @references Ground Penetrating radar on wikipedia.org
+#' (\href{https://en.wikipedia.org/wiki/Ground-penetrating_radar)
 #'
-#' @source \href{https://phenome.jax.org/projects/Moore1b}{QTL Archive}
+#' @source \href{https://en.wikipedia.org/wiki/Ground-penetrating_radar}
 #'
 #' @examples
 #' data(gpr)
