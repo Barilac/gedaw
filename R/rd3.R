@@ -20,4 +20,4 @@
 #'
 #' @examples
 #' data(rd3)
-"rd3"
+

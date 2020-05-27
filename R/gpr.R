@@ -14,7 +14,7 @@
 #' @keywords datasets
 #'
 #' @references Ground Penetrating radar on wikipedia.org
-#' (\href{https://en.wikipedia.org/wiki/Ground-penetrating_radar)
+#' \href{https://en.wikipedia.org/wiki/Ground-penetrating_radar}
 #'
 #' @source \href{https://en.wikipedia.org/wiki/Ground-penetrating_radar}
 #'
