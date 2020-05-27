@@ -11,6 +11,7 @@ Now we are developing a new geostatistical package. Our package *gedaw* combines
 <br>
 There are several types of data
 <br>
+
 | Data name | Data type | Form of measurements |
 | ------------- | ------------- | ------------- |
 | GPR  | data frame  | slices  |
