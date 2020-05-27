@@ -1,6 +1,5 @@
 # Gedaw
 
-{% include toc.html html=content %}
 
 ## Introduction
 <br>
@@ -11,7 +10,7 @@ Now we are developing a new geostatistical package. Our package *gedaw* combines
 ## Data types
 <br>
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Data name | Data type | Form of measurements |
+| ------------- | ------------- | ------------- |
+| GPR  | data frame  | slices  |
 | Content Cell  | Content Cell  |
