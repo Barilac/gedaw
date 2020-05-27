@@ -1,6 +1,6 @@
 # Gedaw
 
-* TOC {:toc}
+{% include toc.html html=content %}
 
 ## Introduction
 <br>
