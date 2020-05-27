@@ -16,7 +16,9 @@ There are several types of data
 | GPR  | data frame  | slices  |
 | Content Cell  | Content Cell  |
 
+<br><br>
 
+## Lines of code
 
 ```r
 dftomat = function (a, x=1, y=2, v=3) 
