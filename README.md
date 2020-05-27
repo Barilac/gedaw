@@ -8,9 +8,8 @@ Now we are developing a new geostatistical package. Our package *gedaw* combines
 
 ## Data types
 <br>
-| Data type       | Are           | Cool  |
+| Data type | Are | Cool |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-x
+| col 3 is | right-aligned | $1600 |
+| col 2 is | centered |   $12 |
+| zebra stripes | are neat | $1 |
