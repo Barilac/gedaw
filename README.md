@@ -19,7 +19,7 @@ There are several types of data
 <br><br>
 
 ## Lines of code
-
+<br>
 ```r
 dftomat = function (a, x=1, y=2, v=3) 
 {
